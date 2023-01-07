@@ -8,7 +8,7 @@
 
 <p align = "center">
     <a href="https://github.com/Jibinhwang" target="_blank"><img src="https://img.shields.io/badge/Github-181717?&logo=Github&logoColor=white"/></a>
-    <a href="https://hyu_pangji.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-000000?&logo=Tistory&logoColor=white"/></a>
+    <a href="https://hyu-pangji.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-000000?&logo=Tistory&logoColor=white"/></a>
 </p>
 
 <br><br>
